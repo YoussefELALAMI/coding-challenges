@@ -20,10 +20,11 @@ class Solution {
         return solution;
     }
 
-    private void getPath(TreeNode node, String path, List<String> solution ) {
-        if (node != null){
+    private void getPath(TreeNode node, String path, List<String> solution) {
+        if (node != null) {
             path += Integer.toString(node.val);
-            if (node.left == null && node.right == null) solution.add(path);
+            if (node.left == null && node.right == null)
+                solution.add(path);
             else {
                 path += "->";
                 getPath(node.left, path, solution);
