@@ -6,6 +6,7 @@ class Solution {
         int maxSubStr = 0;
         int left = 0;
         int right = 0;
+
         while (right < s.length()) {
             char r = s.charAt(right);
             charsOfSubArr.put(r, charsOfSubArr.getOrDefault(r, 0) + 1);
@@ -20,6 +21,7 @@ class Solution {
 
             right++;
         }
+        
         return maxSubStr;
     }
 }
