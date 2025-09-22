@@ -4,11 +4,7 @@ class Solution {
         int count = 0;
         Map<Integer, Integer> frequency = new HashMap<>();
         for(int i = 0; i < nums.length; i++){
-            if(!frequency.containsKey(nums[i])){
-                frequency.put(nums[i], 1);
-            } else {
-                frequency.replace(nums[i], frequency.get(nums[i])+1);
-            }
+            frequency.put(nums[i], frequency.getOrDefault(nums[i], 0)+1);
             maxFreq = Math.max(maxFreq, frequency.get(nums[i]));
         }
 
