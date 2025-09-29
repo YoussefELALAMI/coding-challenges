@@ -16,8 +16,8 @@ class Solution {
         if(start+1 == end) return 0;
         if(start+2 == end) return values[start] * values[start+1] * values[end];
         int key = start * n + end;
-        int minScore = Integer.MAX_VALUE;
         if(!memo.containsKey(key)){
+            int minScore = Integer.MAX_VALUE;
             for(int k = start+1; k < end; k++){
                 minScore = min(
                     minScore,
