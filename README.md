@@ -48,7 +48,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 
 ## 📬 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/youssef-el-alami-/)
-- 💻 [LeetCode Profile]([https://leetcode.com/](https://leetcode.com/u/youssefelalami/))
+- 💻 [LeetCode Profile]([[https://leetcode.com/](https://leetcode.com/u/youssefelalami/)](https://leetcode.com/u/youssefelalami/))
 - 📧 Email: *youssef2003elalami@gmail.com*
 
 ---
