@@ -1,7 +1,6 @@
 class Solution {
     public boolean canPermutePalindrome(String s) {
         int oneFrequency = 0;
-        
         Map<Character, Integer> freqMap = new HashMap<>();
         for(int i = 0; i < s.length(); i++){
             char c = s.charAt(i);
