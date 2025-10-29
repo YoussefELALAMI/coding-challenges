@@ -8,12 +8,8 @@ class Solution {
 
         for(int n : numSet) {
             if(!numSet.contains(n-1)){
-                int length = 1;
-                int current = n;
-                while(numSet.contains(current + 1)){
-                    length += 1;
-                    current += 1;
-                } 
+                int length = 0;
+                while(numSet.contains(n + length)) length++;
                 longest = Math.max(longest, length);
             }
         }
