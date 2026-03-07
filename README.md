@@ -56,3 +56,19 @@ This repository contains my step-by-step solutions to various algorithmic and da
 > *"The only way to learn a new programming language is by writing programs in it."* — Dennis Ritchie
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0266-palindrome-permutation](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0266-palindrome-permutation/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0266-palindrome-permutation](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0266-palindrome-permutation/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0266-palindrome-permutation](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0266-palindrome-permutation/) | Easy |
+<!---LeetCode Topics End-->
