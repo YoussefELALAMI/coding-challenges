@@ -103,4 +103,8 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1064-fixed-point](https://github.com/YoussefELALAMI/coding-challenges/tree/main/1064-fixed-point/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0511-game-play-analysis-i](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0511-game-play-analysis-i/) | Easy |
 <!---LeetCode Topics End-->
