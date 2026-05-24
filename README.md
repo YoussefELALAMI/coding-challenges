@@ -85,6 +85,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1064-fixed-point](https://github.com/YoussefELALAMI/coding-challenges/tree/main/1064-fixed-point/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,4 +99,8 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0796-rotate-string/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1064-fixed-point](https://github.com/YoussefELALAMI/coding-challenges/tree/main/1064-fixed-point/) | Easy |
 <!---LeetCode Topics End-->
