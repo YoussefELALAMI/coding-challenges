@@ -80,6 +80,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | ------- | ------- |
 | [0161-one-edit-distance](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0161-one-edit-distance/) | Medium |
 | [0443-string-compression](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0443-string-compression/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/YoussefELALAMI/coding-challenges/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,4 +112,5 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/YoussefELALAMI/coding-challenges/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
