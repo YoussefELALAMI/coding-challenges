@@ -91,6 +91,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0048-rotate-image/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -112,7 +113,12 @@ This repository contains my step-by-step solutions to various algorithmic and da
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0002-add-two-numbers/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0086-partition-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/YoussefELALAMI/coding-challenges/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
