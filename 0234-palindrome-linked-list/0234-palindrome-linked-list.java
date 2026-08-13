@@ -10,6 +10,42 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
+
+        ListNode fast = head;
+        ListNode slow = head;
+
+        Stack<Integer> values = new Stack<>();
+
+        while(fast != null && fast.next != null){
+            values.push(slow.val);
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+
+        if (fast != null) {
+            slow = slow.next;
+        }
+
+        while (slow != null) {
+            int v = values.pop(); 
+            if(slow.val != v) return false;
+            slow = slow.next;
+        }
+
+        return true;
+    }
+}
+
+
+/**
+  -  Reverse linked list solution
+  -  Time complexity is : O(n)
+  -  Space Complexity is  : O(n)
+  Suggestions:
+        Reverse the second half of the list in place using three pointers to achieve constant space complexity without creating new nodes.
+
+
+    public boolean isPalindrome(ListNode head) {
         ListNode curr = head;
         ListNode prev = null, next = null;
         
@@ -29,4 +65,4 @@ class Solution {
 
         return true;
     }
-}
+ */
