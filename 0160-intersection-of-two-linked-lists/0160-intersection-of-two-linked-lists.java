@@ -26,8 +26,13 @@ public class Solution {
     }
 
     private int count(ListNode node){
-        if(node == null) return 0;
-        return 1 + count(node.next);
+        if (node == null) return 0;
+        int count = 0;
+        while (node != null) {
+            count++;
+            node = node.next;
+        }
+        return count;
     }
 }
 
