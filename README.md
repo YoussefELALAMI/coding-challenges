@@ -63,6 +63,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0266-palindrome-permutation](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0266-palindrome-permutation/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -79,6 +80,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0086-partition-list](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0086-partition-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0161-one-edit-distance](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0161-one-edit-distance/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0443-string-compression](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0443-string-compression/) | Medium |
@@ -117,6 +119,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0002-add-two-numbers](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0002-add-two-numbers/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0086-partition-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/YoussefELALAMI/coding-challenges/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
