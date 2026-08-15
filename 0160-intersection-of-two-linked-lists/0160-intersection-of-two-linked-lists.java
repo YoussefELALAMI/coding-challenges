@@ -11,45 +11,13 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        int diff = count(headA) - count(headB);
-        if (diff > 0) {
-            for(int i = 0; i < diff; i++) headA = headA.next;
-        } else if (diff < 0){
-            for(int i = Math.abs(diff); i > 0; i--) headB = headB.next;
-        } 
-        while (headA != null && headB != null) {
-            if(headA == headB) return headA;
-            headA = headA.next;
-            headB = headB.next;
-        }
-        return null;
-    }
+        ListNode pA = headA, pB = headB;
 
-    private int count(ListNode node){
-        if (node == null) return 0;
-        int count = 0;
-        while (node != null) {
-            count++;
-            node = node.next;
+        while (pA != pB) {
+            pA = (pA == null) ? headB : pA.next;
+            pB = (pB == null) ? headA : pB.next;
         }
-        return count;
+
+        return pA;
     }
 }
-
-
-
-/**
- * HashTable solution :
-     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        HashSet<ListNode> nodes = new HashSet<>();
-        while (headA != null) {
-            nodes.add(headA);
-            headA = headA.next;
-        }
-        while (headB != null) {
-            if (nodes.contains(headB)) return headB;
-            headB = headB.next;
-        }
-        return null;
-    }
- */
