@@ -133,9 +133,14 @@ This repository contains my step-by-step solutions to various algorithmic and da
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0141-linked-list-cycle/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
