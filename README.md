@@ -94,6 +94,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0073-set-matrix-zeroes](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0739-daily-temperatures](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0853-car-fleet/) | Medium |
 | [1064-fixed-point](https://github.com/YoussefELALAMI/coding-challenges/tree/main/1064-fixed-point/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -140,6 +141,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0155-min-stack](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0739-daily-temperatures](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0853-car-fleet/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,4 +154,9 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0853-car-fleet/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0853-car-fleet](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0853-car-fleet/) | Medium |
 <!---LeetCode Topics End-->
