@@ -137,6 +137,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -163,12 +164,14 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
@@ -180,6 +183,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## DP on Trees
