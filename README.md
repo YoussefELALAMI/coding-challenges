@@ -137,6 +137,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0155-min-stack/) | Medium |
@@ -163,6 +164,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0226-invert-binary-tree/) | Easy |
@@ -170,6 +172,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0226-invert-binary-tree/) | Easy |
@@ -182,6 +185,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0226-invert-binary-tree/) | Easy |
