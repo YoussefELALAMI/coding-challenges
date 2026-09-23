@@ -19,11 +19,11 @@ class Solution {
         return checkHeight(root)  != -1;
     }
 
-    private int checkHeight(TreeNode root) {    
-        if(root == null) return 0;
-        int hLeft = checkHeight(root.left);
+    private int checkHeight(TreeNode node) {    
+        if(node == null) return 0;
+        int hLeft = checkHeight(node.left);
         if(hLeft == -1) return -1;
-        int hRight = checkHeight(root.right);
+        int hRight = checkHeight(node.right);
         if(hRight == -1) return -1;
         if(Math.abs(hLeft - hRight) > 1) return -1;
         return Math.max(hLeft, hRight) + 1;
