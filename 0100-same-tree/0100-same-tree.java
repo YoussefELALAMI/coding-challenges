@@ -26,16 +26,4 @@ class Solution {
         result = result && isSameTree(p.right, q.right);
         return result;
     }
-    private boolean checkNodes(TreeNode p, TreeNode q){
-        boolean result = true;
-        if(p == null && q == null) return true;
-        else if((p == null && q != null) 
-                || (q == null && p != null)){
-                    return false;
-        }
-        else if(p.val != q.val) return false;
-        result = result && checkNodes(p.left, q.left);
-        result = result && checkNodes(p.right, q.right);
-        return result;
-    }
 }
