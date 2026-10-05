@@ -110,6 +110,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0796-rotate-string](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0796-rotate-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -175,6 +176,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0145-binary-tree-postorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +189,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0145-binary-tree-postorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,8 +211,13 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0145-binary-tree-postorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
