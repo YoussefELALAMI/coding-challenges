@@ -177,6 +177,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0226-invert-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +191,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0226-invert-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +200,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0102-binary-tree-level-order-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0226-invert-binary-tree/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +215,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0226-invert-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
