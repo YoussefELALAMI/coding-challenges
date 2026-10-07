@@ -14,19 +14,20 @@
  * }
  */
 class Solution {
-    int good = 0;
+
     public int goodNodes(TreeNode root) {
         return dfs(root, root.val);
     }
 
     private int dfs(TreeNode node, int maxSoFar){
         if(node == null) return 0;
+        int good = 0;
         if(node.val >= maxSoFar){
             good++;
             maxSoFar = node.val;
         }
-        dfs(node.left, maxSoFar);
-        dfs(node.right, maxSoFar);
+        good += dfs(node.left, maxSoFar);
+        good += dfs(node.right, maxSoFar);
         return good;
     }
 }
