@@ -175,6 +175,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0144-binary-tree-preorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -189,6 +190,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0144-binary-tree-preorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -213,6 +215,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0144-binary-tree-preorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -224,4 +227,16 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
