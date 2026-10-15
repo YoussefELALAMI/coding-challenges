@@ -20,15 +20,15 @@ class Solution {
         Deque<TreeNode> queue = new ArrayDeque<>();
         queue.add(root);
         while(!queue.isEmpty()){
-            int size = queue.size();
-            Deque<Integer> level = new ArrayDeque<>();   
+            int size = queue.size();   
             for(int i = 0; i < size; i++){
                 TreeNode node = queue.poll();
-                level.add(node.val);
+                if (i == 0) {
+                    arr.add(node.val);
+                }
                 if(node.right != null) queue.add(node.right);
                 if(node.left != null) queue.add(node.left);
             }
-            arr.add(level.poll());
         }
         return arr;
     }
