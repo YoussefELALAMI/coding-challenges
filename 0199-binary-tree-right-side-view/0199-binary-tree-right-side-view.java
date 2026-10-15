@@ -14,6 +14,30 @@
  * }
  */
 class Solution {
+    public List<Integer> rightSideView(TreeNode root) {
+        List<Integer> arr = new ArrayList<Integer>();
+        if(root == null) return arr;
+        Deque<TreeNode> queue = new ArrayDeque<>();
+        queue.add(root);
+        while(!queue.isEmpty()){
+            int size = queue.size();
+            Deque<Integer> level = new ArrayDeque<>();   
+            for(int i = 0; i < size; i++){
+                TreeNode node = queue.poll();
+                level.add(node.val);
+                if(node.right != null) queue.add(node.right);
+                if(node.left != null) queue.add(node.left);
+            }
+            arr.add(level.poll());
+        }
+        return arr;
+    }
+}
+
+
+/**
+ Recursive x DFS Approach 
+ class Solution {
     List<Integer> arr = new ArrayList<Integer>();
     public List<Integer> rightSideView(TreeNode root) {
         if(root == null) return arr;
@@ -29,3 +53,4 @@ class Solution {
         dfs(node.left, depth);
     }
 }
+ */
