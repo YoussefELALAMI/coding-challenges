@@ -63,6 +63,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0266-palindrome-permutation](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0266-palindrome-permutation/) | Easy |
@@ -92,6 +93,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0739-daily-temperatures](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0853-car-fleet/) | Medium |
@@ -173,6 +175,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0102-binary-tree-level-order-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -225,6 +228,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0102-binary-tree-level-order-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -262,4 +266,8 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
