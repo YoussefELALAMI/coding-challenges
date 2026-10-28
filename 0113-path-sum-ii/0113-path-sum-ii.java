@@ -32,9 +32,10 @@ class Solution {
         targetSum -= node.val;
         if(node.left == null && node.right == null && targetSum == 0){
             paths.add(new ArrayList<>(currPath));
+        } else {
+            helper(node.left, targetSum, currPath);
+            helper(node.right, targetSum, currPath);
         }
-        helper(node.left, targetSum, currPath);
-        helper(node.right, targetSum, currPath);
         currPath.removeLast();
     }
 }
