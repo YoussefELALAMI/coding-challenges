@@ -185,6 +185,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0230-kth-smallest-element-in-a-bst](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0437-path-sum-iii](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0437-path-sum-iii/) | Medium |
 | [0510-inorder-successor-in-bst-ii](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0510-inorder-successor-in-bst-ii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -206,6 +207,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0230-kth-smallest-element-in-a-bst](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0437-path-sum-iii](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -240,6 +242,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0230-kth-smallest-element-in-a-bst](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0437-path-sum-iii](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0437-path-sum-iii/) | Medium |
 | [0510-inorder-successor-in-bst-ii](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0510-inorder-successor-in-bst-ii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0572-subtree-of-another-tree/) | Easy |
