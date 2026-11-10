@@ -67,6 +67,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0141-linked-list-cycle](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0266-palindrome-permutation](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0266-palindrome-permutation/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0073-set-matrix-zeroes](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0739-daily-temperatures](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0853-car-fleet/) | Medium |
 | [1064-fixed-point](https://github.com/YoussefELALAMI/coding-challenges/tree/main/1064-fixed-point/) | Easy |
@@ -104,6 +106,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0002-add-two-numbers](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0048-rotate-image/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +161,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0155-min-stack/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,4 +292,8 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0113-path-sum-ii/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
