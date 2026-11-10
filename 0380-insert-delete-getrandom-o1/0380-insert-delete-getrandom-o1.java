@@ -22,13 +22,13 @@ class RandomizedSet {
         if (!hTable.containsKey(val)) {
             return false;
         }
+
         int itemIndex = hTable.get(val);
-        if(itemIndex != size - 1){
-            int lastVal = set.get(size - 1);
-            hTable.remove(lastVal);
-            set.set(itemIndex, lastVal);
-            hTable.put(lastVal, itemIndex);
-        }
+        int lastVal = set.get(size - 1);
+
+        set.set(itemIndex, lastVal);
+        hTable.put(lastVal, itemIndex);
+        
         set.remove(size - 1);
         hTable.remove(val);
         return true;
