@@ -2,6 +2,7 @@ class RandomizedSet {
 
     List<Integer> set;
 	HashMap<Integer, Integer> hTable;
+    Random rand = new Random();
 
     public RandomizedSet() {
         set = new ArrayList<>();
@@ -28,15 +29,14 @@ class RandomizedSet {
 
         set.set(itemIndex, lastVal);
         hTable.put(lastVal, itemIndex);
-        
+
         set.remove(size - 1);
         hTable.remove(val);
         return true;
     }
     
     public int getRandom() {
-        int index = ThreadLocalRandom.current().nextInt(0, set.size());
-        return set.get(index);
+        return set.get(rand.nextInt(set.size()));
     }
 }
 
