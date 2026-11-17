@@ -69,6 +69,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0169-majority-element](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0169-majority-element/) | Easy |
 | [0266-palindrome-permutation](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0266-palindrome-permutation/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0525-contiguous-array](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0525-contiguous-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0150-evaluate-reverse-polish-notation](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0169-majority-element/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0525-contiguous-array](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0525-contiguous-array/) | Medium |
 | [0739-daily-temperatures](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0853-car-fleet/) | Medium |
 | [1064-fixed-point](https://github.com/YoussefELALAMI/coding-challenges/tree/main/1064-fixed-point/) | Easy |
@@ -314,4 +316,8 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0169-majority-element/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0525-contiguous-array](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0525-contiguous-array/) | Medium |
 <!---LeetCode Topics End-->
