@@ -85,6 +85,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0086-partition-list](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0086-partition-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0161-one-edit-distance](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0161-one-edit-distance/) | Medium |
@@ -97,6 +98,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0048-rotate-image](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0088-merge-sorted-array](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0169-majority-element/) | Easy |
@@ -176,6 +178,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0169-majority-element/) | Easy |
 | [0853-car-fleet](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0853-car-fleet/) | Medium |
 ## Tree
