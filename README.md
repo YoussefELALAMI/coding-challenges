@@ -89,6 +89,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0141-linked-list-cycle](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0161-one-edit-distance](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0161-one-edit-distance/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0443-string-compression](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0443-string-compression/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/YoussefELALAMI/coding-challenges/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -101,6 +102,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0088-merge-sorted-array](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0169-majority-element/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0525-contiguous-array](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0525-contiguous-array/) | Medium |
@@ -128,6 +130,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1064-fixed-point](https://github.com/YoussefELALAMI/coding-challenges/tree/main/1064-fixed-point/) | Easy |
 ## Database
 | Problem Name | Difficulty |
