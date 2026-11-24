@@ -93,6 +93,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0443-string-compression](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0443-string-compression/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/YoussefELALAMI/coding-challenges/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -108,6 +109,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0169-majority-element](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0169-majority-element/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0525-contiguous-array](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0525-contiguous-array/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0739-daily-temperatures](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0853-car-fleet/) | Medium |
 | [1064-fixed-point](https://github.com/YoussefELALAMI/coding-challenges/tree/main/1064-fixed-point/) | Easy |
@@ -164,6 +166,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0150-evaluate-reverse-polish-notation](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0739-daily-temperatures](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0853-car-fleet/) | Medium |
 ## Floyd's Cycle Finding Algorithm
@@ -178,6 +181,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0739-daily-temperatures](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0853-car-fleet/) | Medium |
 ## Sorting
@@ -186,6 +190,7 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | [0075-sort-colors](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0169-majority-element/) | Easy |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0853-car-fleet](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0853-car-fleet/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -337,4 +342,8 @@ This repository contains my step-by-step solutions to various algorithmic and da
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0075-sort-colors/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/YoussefELALAMI/coding-challenges/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 <!---LeetCode Topics End-->
